@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m Arka <br> 👀 I’m interested in Backend web development <br>🌱 I’m currently learning Rust
+ 👋 Hi, I’m Arka <br> 👀 I’m interested in Backend web development <br>🌱 I’m currently learning Rust<br>And I use Arch btw... :)
 
 
 ## 🌐 Socials:
